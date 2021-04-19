@@ -1,8 +1,6 @@
-require_relative 'lib/view_component/no_component/version'
-
 Gem::Specification.new do |spec|
   spec.name          = "view_component-no_component"
-  spec.version       = ViewComponent::NoComponent::VERSION
+  spec.version       = "0.1.0"
   spec.authors       = ["Simon Fish"]
   spec.email         = ["si@mon.fish"]
 
