@@ -1,4 +1,4 @@
-name: Remote Record
+name: ViewComponent-NoComponent
 on: push
 
 jobs:
